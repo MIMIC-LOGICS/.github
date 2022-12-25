@@ -4,6 +4,6 @@
   <h2> Gash the Maya's veil, peek at the mezmerizing dimension it conceals </h1>
 </div>
 
-#Contact
+# Contact
 
 Discord: Atlas#6355
