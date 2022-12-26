@@ -7,3 +7,6 @@
   
 </div>
 
+# Projects
+
+- <a href="https://github.com/MIMIC-LOGICS/Mouse-Synthesizer">Mouse Synthesizer</a>
