@@ -18,6 +18,7 @@ MIMIC aims to identify fallacies and attack scenarios specifically against anti-
 
 <h1>Projects</h1>
 <li> <a href="https://github.com/MIMIC-LOGICS/Mouse-Synthesizer">Mouse Synthesizer</a></li>
+<li> <a href="https://github.com/MIMIC-LOGICS/Keyboard-Synthesizer">Keyboard Synthesizer</a></li>
 
 </div>
 <br><br>
